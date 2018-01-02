@@ -1,0 +1,3 @@
+<!--index.wxml-->
+<!-- rich-text.wxml -->
+<rich-text nodes="{{nodes}}" bindtap="tap"></rich-text>
